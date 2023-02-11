@@ -1,1 +1,1 @@
-# Ai bootcamp ders materyalleri ve projeleler
+# Ai bootcamp course materials and projects
