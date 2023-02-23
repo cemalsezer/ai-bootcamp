@@ -1,7 +1,2 @@
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-
-prifle_default/
-ipython_config.py
-
 notebooks/
+.ipynb_checkpoints
